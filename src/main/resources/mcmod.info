@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tutorial",
+  "name": "CrowTutorial Mod",
+  "description": "Example mod of fluid tank.",
+  "version": "1.0.0",
+  "mcversion": "1.12.2",
+  "url": "https://github.com/defeatedcrow/FluidTankTutorialMod",
+  "updateUrl": "",
+  "authorList": ["defeatedcrow"],
+  "credits": "defeatedcrow",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

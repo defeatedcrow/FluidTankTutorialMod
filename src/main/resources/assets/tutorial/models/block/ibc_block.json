@@ -1,0 +1,7 @@
+{
+    "parent":"block/block",
+        "textures": {
+        "particle": "tutorial:blocks/black"
+    },
+    "elements": []
+}
