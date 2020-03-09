@@ -29,3 +29,4 @@ run
 .metadata
 buildlog.txt
 
+!gradle/wrapper/gradle-wrapper.properties
